@@ -23,6 +23,7 @@
     line-height: 44px;
     color: #FFFFFF;
     border: none;
+    cursor: pointer;
 }
 
 .reset__btn {
