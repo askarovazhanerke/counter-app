@@ -1,0 +1,30 @@
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.counter__wrapper {
+    margin: 0 auto;
+    width: 500px;
+}
+.counter {
+    text-align: center;
+    font-size: 32px;
+    line-height: 44px;
+    color: #000000;
+}
+.pool__btn, .reset__btn  {
+    display: block;
+    margin-top: 36px;
+    width: 500px;
+    height: 100px;
+    background: #4191FF;
+    border-radius: 20px;
+    font-size: 32px;
+    line-height: 44px;
+    color: #FFFFFF;
+    border: none;
+}
+
+.reset__btn {
+    background: #D45366;
+}
